@@ -2,7 +2,7 @@
 
 #define max(a, b) a > b ? a : b
 
-int multiple35()
+int multiples35()
 {
     int sum = 0;
 
