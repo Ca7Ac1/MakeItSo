@@ -1,4 +1,5 @@
 #include <stdlib.h>
+#include "euler.h"
 
 #define max(a, b) a > b ? a : b
 
